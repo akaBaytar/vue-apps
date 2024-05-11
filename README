@@ -41,10 +41,6 @@ To run any of the projects locally, follow these steps:
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run serve`
 
-## Contributing
-
-If you'd like to contribute to any of the projects, please follow the guidelines outlined in the `CONTRIBUTING.md` file.
-
 ## License
 
 This repository is licensed under the MIT License. See the `LICENSE` file for details.
