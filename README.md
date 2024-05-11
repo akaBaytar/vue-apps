@@ -24,14 +24,6 @@ This repository contains four Vue.js projects showcasing various concepts and fe
 - **Description:** Find a Mentor is a Vue project that utilizes Firebase for backend operations, including authentication using Google APIs. It incorporates Vuex for state management with multiple modules, Vue Router for dynamic routes, and route guarding.
 - **Folder:** `find-a-mentor`
 
-## Additional Files
-
-In addition to the project folders, you may also find the following files:
-
-- `LICENSE`: The license under which the projects are distributed.
-- `CONTRIBUTING.md`: Guidelines for contributing to the projects.
-- `CODE_OF_CONDUCT.md`: Code of Conduct for project contributors.
-
 ## Getting Started
 
 To run any of the projects locally, follow these steps:
